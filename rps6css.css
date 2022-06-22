@@ -1,0 +1,18 @@
+p,h1 {
+    text-align: center;
+    color:white;
+    
+}
+
+iframe{
+    margin-left: 70%;
+    position:fixed;
+}
+
+body{
+    background-color: black;
+}
+
+marquee{
+    text-size: 1000;
+}
